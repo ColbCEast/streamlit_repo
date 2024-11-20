@@ -1,0 +1,4 @@
+streamlit
+sklearn.datasets
+pandas
+plotly.express
